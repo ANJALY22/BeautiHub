@@ -41,7 +41,7 @@ The project is currently in the planning and requirements phase.
 - User registration and login
 - User profile
 - Beauty product browsing
-- Product search
+- Product search feature
 - Product filtering
 - Product details
 - Favorites
